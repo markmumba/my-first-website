@@ -17,10 +17,7 @@ image{
     width: 1px;
     height: 10px;
 }
-body{
-  background-image: url(90.jpg);
-  background-size: cover;
-}
+
 .webs{
     text-align: right;
     font-size: 36px;
@@ -89,4 +86,10 @@ nav a::before {
 p1{font-family: Quicksand;
   color: black;
 }
+body{
+  background-image: url(90.jpg)
+
+}
+
+
 
