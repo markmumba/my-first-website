@@ -90,6 +90,13 @@ body{
   background-image: url(mat.png)
 
 }
+a{
+  color: whitesmoke;
+  text-decoration: none;
+}
+a:hover{
+  color: gray;
+}
 
   
 

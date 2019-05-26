@@ -1,0 +1,18 @@
+@font-face {
+  src: url(Quicksand/Quicksand-Light.ttf);
+  font-family: Quicksand;
+}
+body{
+  font-family: Quicksand;
+}
+h1{
+  font-size: 40px;
+  text-align: center;
+}
+.me{
+  font-size: 20px;
+  text-align: unset;
+}
+ul{
+  font-size: 30px;
+}
