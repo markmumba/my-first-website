@@ -1,0 +1,14 @@
+@font-face {
+    src: url(Quicksand/Quicksand-regular.ttf);
+    font-family: Quicksand;
+}
+h1{
+    font-family: Quicksand;
+    font-size: 110px;
+    color: black;
+    text-align: right;
+}
+p1{
+    font-family: Quicksand;
+
+}
