@@ -1,0 +1,18 @@
+@font-face {
+    src: url(Quicksand/Quicksand-Light.ttf);
+    font-family: Quicksand;
+}
+.bom{
+    float: right;
+}
+.feed{
+    padding: 10px;
+    margin-bottom: 20px;
+ 
+}
+h1{
+    font-family: Quicksand;
+    font-size: 70px;
+    color: burlywood;
+    background-image: url(mat.png)
+}
