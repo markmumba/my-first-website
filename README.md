@@ -6,7 +6,7 @@ This is a website which contains information about me and some of the projects I
 ## Setup/Installation Requirements
 * install Atom/Visual studio code
 * git init
-* git clone https://Github.com/markmumba/portfolio
+* git clone https://markmumba.github.io/my-portfolio/
 *  Open the folder where the cloned repository is saved in a simple
 ## Technologies Used
  * HTML – used to create the website
@@ -16,7 +16,6 @@ In case of any questions, comments or interest in doing a project together, plea
 * Email: markmumba01@gmail.com
 * Instagram: m.u.m.b.a_
 * Tel- +254720215997
-		
+
 ### License
 Copyright (c) 2019 **mark mumba**
-  
